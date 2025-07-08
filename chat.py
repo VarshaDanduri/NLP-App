@@ -1,4 +1,7 @@
 import streamlit as st
+import sys
+
+sys.check_call([sys.exectuable, "pip", "install", "spacy"])
 import spacy
 
 from spacy.tokens import Span
