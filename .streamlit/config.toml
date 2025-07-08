@@ -1,2 +1,3 @@
-[general]
-prelaunchScript = "setup.sh"
+[server]
+headless = true
+enableCORS = false
