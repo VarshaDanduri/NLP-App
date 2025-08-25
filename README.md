@@ -13,6 +13,5 @@ This project lets you input any text and visualize named entities detected by a 
 ---
 
 Last updated 07.07.2025
-There might be errors. 
 
 Run with this link: https://ai-tester-nvqm5csxejpkxwwggvfz98.streamlit.app/
